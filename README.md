@@ -40,7 +40,6 @@ The dashboard consolidates the full dataset into four linked views:
 - **Category & Product Mix** — revenue breakdown by category and top/bottom SKUs
 - **Monthly Trend** — seasonality and month-over-month revenue movement
 
-📸 *Add a screenshot of your finished dashboard here, e.g. `![Dashboard Overview](assets/dashboard_overview.png)`*
 <img src="https://github.com/user-attachments/assets/f52486d2-a690-41c0-960e-dd484939c005" width="600" alt="Dashboard"/>
 <center>
     <img src=">
@@ -114,4 +113,4 @@ retail-sales-dashboard/
 `Excel` · `PivotTables & PivotCharts` · `Data Cleaning` · `Dashboard Design` · `KPI Definition` · `Business Storytelling`
 
 ---
-*Author: [Your Name] · [LinkedIn](#) · [Portfolio](#)*
+*Author: Deepti R · 
